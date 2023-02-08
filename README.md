@@ -20,7 +20,7 @@ chmod +x /usr/local/bin/png_grabber
 ```
 git clone https://github.com/shumbashi/png_grabber.git
 cd png_grabber
-pip3 install --user requirements.txt
+pip3 install --user -r requirements.txt
 ```
 
 ## Usage
